@@ -1,0 +1,194 @@
+procCode4Char,procCode4CharNoPeriod,procCode3Char,procSuperGroup,procGroup,procMinorGroup
+U01.2,U012,U01,Imaging,MRI,MRI
+U05.2,U052,U05,Imaging,MRI,MRI
+U05.3,U053,U05,Imaging,MRI,MRI
+U05.5,U055,U05,Imaging,MRI,MRI
+U07.2,U072,U07,Imaging,MRI,MRI
+U08.5,U085,U08,Imaging,MRI,MRI
+U09.3,U093,U09,Imaging,MRI,MRI
+U10.3,U103,U10,Imaging,MRI,MRI
+U13.3,U133,U13,Imaging,MRI,MRI
+U16.2,U162,U16,Imaging,MRI,MRI
+U21.1,U211,U21,Imaging,MRI,MRI
+U37.1,U371,U37,Imaging,MRI,MRI
+U11.7,U117,U11,Imaging,MRA,MRA
+U01.1,U011,U01,Imaging,CT,CT
+U05.1,U051,U05,Imaging,CT,CT
+U05.4,U054,U05,Imaging,CT,CT
+U06.1,U061,U06,Imaging,CT,CT
+U07.1,U071,U07,Imaging,CT,CT
+U08.1,U081,U08,Imaging,CT,CT
+U09.1,U091,U09,Imaging,CT,CT
+U10.1,U101,U10,Imaging,CT,CT
+U10.2,U102,U10,Imaging,CT,CT
+U11.4,U114,U11,Imaging,CT,CT
+U13.6,U136,U13,Imaging,CT,CT
+U17.5,U175,U17,Imaging,CT,CT
+U21.2,U212,U21,Imaging,CT,CT
+U35.4,U354,U35,Imaging,CT,CT
+U37.2,U372,U37,Imaging,CT,CT
+U21.3,U213,U21,Imaging,PET,PET
+U06.3,U063,U06,Imaging,Non-obstetric ultrasound,Non-obstetric ultrasound
+U08.2,U082,U08,Imaging,Non-obstetric ultrasound,Non-obstetric ultrasound
+U09.2,U092,U09,Imaging,Non-obstetric ultrasound,Non-obstetric ultrasound
+U12.2,U122,U12,Imaging,Non-obstetric ultrasound,Non-obstetric ultrasound
+U12.3,U123,U12,Imaging,Non-obstetric ultrasound,Non-obstetric ultrasound
+U12.4,U124,U12,Imaging,Non-obstetric ultrasound,Non-obstetric ultrasound
+U13.2,U132,U13,Imaging,Non-obstetric ultrasound,Non-obstetric ultrasound
+U21.6,U216,U21,Imaging,Non-obstetric ultrasound,Non-obstetric ultrasound
+C87.4,C874,C87,Imaging,Non-obstetric ultrasound,Non-obstetric ultrasound
+K51.2,K512,K51,Imaging,Non-obstetric ultrasound,Non-obstetric ultrasound
+Q55.5,Q555,Q55,Imaging,Non-obstetric ultrasound,Non-obstetric ultrasound
+G16.2,G162,G16,Imaging,Endoscopic non-obstetric ultrasound,Endoscopic non-obstetric ultrasound
+G45.2,G452,G45,Imaging,Endoscopic non-obstetric ultrasound,Endoscopic non-obstetric ultrasound
+J09.2,J092,J09,Imaging,Endoscopic non-obstetric ultrasound,Endoscopic non-obstetric ultrasound
+J09.3,J093,J09,Imaging,Endoscopic non-obstetric ultrasound,Endoscopic non-obstetric ultrasound
+J17.1,J171,J17,Imaging,Endoscopic non-obstetric ultrasound,Endoscopic non-obstetric ultrasound
+J17.8,J178,J17,Imaging,Endoscopic non-obstetric ultrasound,Endoscopic non-obstetric ultrasound
+J17.9,J179,J17,Imaging,Endoscopic non-obstetric ultrasound,Endoscopic non-obstetric ultrasound
+J51.1,J511,J51,Imaging,Endoscopic non-obstetric ultrasound,Endoscopic non-obstetric ultrasound
+J51.8,J518,J51,Imaging,Endoscopic non-obstetric ultrasound,Endoscopic non-obstetric ultrasound
+J51.9,J519,J51,Imaging,Endoscopic non-obstetric ultrasound,Endoscopic non-obstetric ultrasound
+J53.1,J531,J53,Imaging,Endoscopic non-obstetric ultrasound,Endoscopic non-obstetric ultrasound
+J53.8,J538,J53,Imaging,Endoscopic non-obstetric ultrasound,Endoscopic non-obstetric ultrasound
+J53.9,J539,J53,Imaging,Endoscopic non-obstetric ultrasound,Endoscopic non-obstetric ultrasound
+J73.1,J731,J73,Imaging,Endoscopic non-obstetric ultrasound,Endoscopic non-obstetric ultrasound
+J73.8,J738,J73,Imaging,Endoscopic non-obstetric ultrasound,Endoscopic non-obstetric ultrasound
+J73.9,J739,J73,Imaging,Endoscopic non-obstetric ultrasound,Endoscopic non-obstetric ultrasound
+J74.1,J741,J74,Imaging,Endoscopic non-obstetric ultrasound,Endoscopic non-obstetric ultrasound
+J74.8,J748,J74,Imaging,Endoscopic non-obstetric ultrasound,Endoscopic non-obstetric ultrasound
+J74.9,J749,J74,Imaging,Endoscopic non-obstetric ultrasound,Endoscopic non-obstetric ultrasound
+T43.3,T433,T43,Imaging,Endoscopic non-obstetric ultrasound,Endoscopic non-obstetric ultrasound
+T43.4,T434,T43,Imaging,Endoscopic non-obstetric ultrasound,Endoscopic non-obstetric ultrasound
+U17.3,U173,U17,Imaging,Barium enema,Barium enema
+U17.4,U174,U17,Imaging,Barium enema,Barium enema
+U13.1,U131,U13,Imaging,DEXA,DEXA
+U24.1,U241,U24,Physiological measurement,Audiology,Audiology assessment
+U24.2,U242,U24,Physiological measurement,Audiology,Audiology assessment
+U24.3,U243,U24,Physiological measurement,Audiology,Audiology assessment
+U24.8,U248,U24,Physiological measurement,Audiology,Audiology assessment
+U24.9,U249,U24,Physiological measurement,Audiology,Audiology assessment
+U20.1,U201,U20,Physiological measurement,Cardiology,Echocardiography
+U20.2,U202,U20,Physiological measurement,Cardiology,Echocardiography
+U20.3,U203,U20,Physiological measurement,Cardiology,Echocardiography
+U20.4,U204,U20,Physiological measurement,Cardiology,Echocardiography
+U20.5,U205,U20,Physiological measurement,Cardiology,Echocardiography
+U20.6,U206,U20,Physiological measurement,Cardiology,Echocardiography
+U20.8,U208,U20,Physiological measurement,Cardiology,Echocardiography
+U20.9,U209,U20,Physiological measurement,Cardiology,Echocardiography
+K58.5,K585,K58,Physiological measurement,Cardiology,Echocardiography
+K58.2,K582,K58,Physiological measurement,Cardiology,Electrophysiology
+A84.2,A842,A84,Physiological measurement,Neurophysiology,Peripheral neurophysiology
+A84.3,A843,A84,Physiological measurement,Neurophysiology,Peripheral neurophysiology
+A84.7,A847,A84,Physiological measurement,Respiratory physiology,Sleep studies
+U33.1,U331,U33,Physiological measurement,Respiratory physiology,Sleep studies
+U26.4,U264,U26,Urodynamics,Pressures & flows,Pressures & flows
+M47.4,M474,M47,Urodynamics,Pressures & flows,Pressures & flows
+H20.1,H201,H20,Endoscopy ,Colonoscopy,Colonoscopy
+H20.2,H202,H20,Endoscopy ,Colonoscopy,Colonoscopy
+H20.3,H203,H20,Endoscopy ,Colonoscopy,Colonoscopy
+H20.4,H204,H20,Endoscopy ,Colonoscopy,Colonoscopy
+H20.5,H205,H20,Endoscopy ,Colonoscopy,Colonoscopy
+H20.6,H206,H20,Endoscopy ,Colonoscopy,Colonoscopy
+H20.8,H208,H20,Endoscopy ,Colonoscopy,Colonoscopy
+H20.9,H209,H20,Endoscopy ,Colonoscopy,Colonoscopy
+H22.1,H221,H22,Endoscopy ,Colonoscopy,Colonoscopy
+H22.8,H228,H22,Endoscopy ,Colonoscopy,Colonoscopy
+H22.9,H229,H22,Endoscopy ,Colonoscopy,Colonoscopy
+H23.1,H231,H23,Endoscopy ,Flexible sigmoidoscopy,Flexible sigmoidoscopy
+H23.2,H232,H23,Endoscopy ,Flexible sigmoidoscopy,Flexible sigmoidoscopy
+H23.3,H233,H23,Endoscopy ,Flexible sigmoidoscopy,Flexible sigmoidoscopy
+H23.4,H234,H23,Endoscopy ,Flexible sigmoidoscopy,Flexible sigmoidoscopy
+H23.5,H235,H23,Endoscopy ,Flexible sigmoidoscopy,Flexible sigmoidoscopy
+H23.6,H236,H23,Endoscopy ,Flexible sigmoidoscopy,Flexible sigmoidoscopy
+H23.8,H238,H23,Endoscopy ,Flexible sigmoidoscopy,Flexible sigmoidoscopy
+H23.9,H239,H23,Endoscopy ,Flexible sigmoidoscopy,Flexible sigmoidoscopy
+H25.1,H251,H25,Endoscopy ,Flexible sigmoidoscopy,Flexible sigmoidoscopy
+H25.2,H252,H25,Endoscopy ,Flexible sigmoidoscopy,Flexible sigmoidoscopy
+H25.8,H258,H25,Endoscopy ,Flexible sigmoidoscopy,Flexible sigmoidoscopy
+H25.9,H259,H25,Endoscopy ,Flexible sigmoidoscopy,Flexible sigmoidoscopy
+M30.1,M301,M30,Endoscopy,Cystoscopy,Ureteroscopy
+M30.2,M302,M30,Endoscopy,Cystoscopy,Ureteroscopy
+M30.3,M303,M30,Endoscopy,Cystoscopy,Ureteroscopy
+M30.4,M304,M30,Endoscopy,Cystoscopy,Ureteroscopy
+M30.5,M305,M30,Endoscopy,Cystoscopy,Ureteroscopy
+M30.6,M306,M30,Endoscopy,Cystoscopy,Ureteroscopy
+M30.8,M308,M30,Endoscopy,Cystoscopy,Ureteroscopy
+M30.9,M309,M30,Endoscopy,Cystoscopy,Ureteroscopy
+M45.1,M451,M45,Endoscopy,Cystoscopy,Cystoscopy
+M45.2,M452,M45,Endoscopy,Cystoscopy,Cystoscopy
+M45.3,M453,M45,Endoscopy,Cystoscopy,Cystoscopy
+M45.4,M454,M45,Endoscopy,Cystoscopy,Cystoscopy
+M45.5,M455,M45,Endoscopy,Cystoscopy,Cystoscopy
+M45.8,M458,M45,Endoscopy,Cystoscopy,Cystoscopy
+M45.9,M459,M45,Endoscopy,Cystoscopy,Cystoscopy
+M77.1,M771,M77,Endoscopy,Cystoscopy,Urethroscopy
+M77.8,M778,M77,Endoscopy,Cystoscopy,Urethroscopy
+M77.9,M779,M77,Endoscopy,Cystoscopy,Urethroscopy
+M42.1,M421,M42,Endoscopy,Cystoscopy,Other cystoscopy
+M42.2,M422,M42,Endoscopy,Cystoscopy,Other cystoscopy
+M42.3,M423,M42,Endoscopy,Cystoscopy,Other cystoscopy
+M42.8,M428,M42,Endoscopy,Cystoscopy,Other cystoscopy
+M42.9,M429,M42,Endoscopy,Cystoscopy,Other cystoscopy
+M43.1,M431,M43,Endoscopy,Cystoscopy,Other cystoscopy
+M43.2,M432,M43,Endoscopy,Cystoscopy,Other cystoscopy
+M43.3,M433,M43,Endoscopy,Cystoscopy,Other cystoscopy
+M43.4,M434,M43,Endoscopy,Cystoscopy,Other cystoscopy
+M43.8,M438,M43,Endoscopy,Cystoscopy,Other cystoscopy
+M43.9,M439,M43,Endoscopy,Cystoscopy,Other cystoscopy
+M65.1,M651,M65,Endoscopy,Cystoscopy,Other cystoscopy
+M65.2,M652,M65,Endoscopy,Cystoscopy,Other cystoscopy
+M65.3,M653,M65,Endoscopy,Cystoscopy,Other cystoscopy
+M65.4,M654,M65,Endoscopy,Cystoscopy,Other cystoscopy
+M65.8,M658,M65,Endoscopy,Cystoscopy,Other cystoscopy
+M65.9,M659,M65,Endoscopy,Cystoscopy,Other cystoscopy
+G45.1,G451,G45,Endoscopy,Gastroscopy,Gastroscopy
+G45.2,G452,G45,Endoscopy,Gastroscopy,Gastroscopy
+G45.3,G453,G45,Endoscopy,Gastroscopy,Gastroscopy
+G45.4,G454,G45,Endoscopy,Gastroscopy,Gastroscopy
+G45.8,G458,G45,Endoscopy,Gastroscopy,Gastroscopy
+G45.9,G459,G45,Endoscopy,Gastroscopy,Gastroscopy
+G55.1,G551,G55,Endoscopy,Gastroscopy,Duodenoscopy
+G55.8,G558,G55,Endoscopy,Gastroscopy,Duodenoscopy
+G55.9,G559,G55,Endoscopy,Gastroscopy,Duodenoscopy
+G65.1,G651,G65,Endoscopy,Gastroscopy,Jejunoscopy
+G65.8,G658,G65,Endoscopy,Gastroscopy,Jejunoscopy
+G65.9,G659,G65,Endoscopy,Gastroscopy,Jejunoscopy
+G80.1,G801,G80,Endoscopy,Gastroscopy,Ileoscopy
+G80.2,G802,G80,Endoscopy,Gastroscopy,Ileoscopy
+G80.3,G803,G80,Endoscopy,Gastroscopy,Ileoscopy
+G80.8,G808,G80,Endoscopy,Gastroscopy,Ileoscopy
+G80.9,G809,G80,Endoscopy,Gastroscopy,Ileoscopy
+G14.1,G141,G14,Endoscopy,Gastroscopy,Other gastroscopy
+G14.2,G142,G14,Endoscopy,Gastroscopy,Other gastroscopy
+G14.3,G143,G14,Endoscopy,Gastroscopy,Other gastroscopy
+G14.4,G144,G14,Endoscopy,Gastroscopy,Other gastroscopy
+G14.5,G145,G14,Endoscopy,Gastroscopy,Other gastroscopy
+G14.6,G146,G14,Endoscopy,Gastroscopy,Other gastroscopy
+G14.7,G147,G14,Endoscopy,Gastroscopy,Other gastroscopy
+G14.8,G148,G14,Endoscopy,Gastroscopy,Other gastroscopy
+G14.9,G149,G14,Endoscopy,Gastroscopy,Other gastroscopy
+G16.1,G161,G16,Endoscopy,Gastroscopy,Other gastroscopy
+G16.2,G162,G16,Endoscopy,Gastroscopy,Other gastroscopy
+G16.3,G163,G16,Endoscopy,Gastroscopy,Other gastroscopy
+G16.8,G168,G16,Endoscopy,Gastroscopy,Other gastroscopy
+G16.9,G169,G16,Endoscopy,Gastroscopy,Other gastroscopy
+G17.1,G171,G17,Endoscopy,Gastroscopy,Other gastroscopy
+G17.2,G172,G17,Endoscopy,Gastroscopy,Other gastroscopy
+G17.3,G173,G17,Endoscopy,Gastroscopy,Other gastroscopy
+G17.4,G174,G17,Endoscopy,Gastroscopy,Other gastroscopy
+G17.8,G178,G17,Endoscopy,Gastroscopy,Other gastroscopy
+G17.9,G179,G17,Endoscopy,Gastroscopy,Other gastroscopy
+G19.1,G191,G19,Endoscopy,Gastroscopy,Other gastroscopy
+G19.2,G192,G19,Endoscopy,Gastroscopy,Other gastroscopy
+G19.8,G198,G19,Endoscopy,Gastroscopy,Other gastroscopy
+G19.9,G199,G19,Endoscopy,Gastroscopy,Other gastroscopy
+G43.1,G431,G43,Endoscopy,Gastroscopy,Other gastroscopy
+G43.2,G432,G43,Endoscopy,Gastroscopy,Other gastroscopy
+G43.3,G433,G43,Endoscopy,Gastroscopy,Other gastroscopy
+G43.4,G434,G43,Endoscopy,Gastroscopy,Other gastroscopy
+G43.5,G435,G43,Endoscopy,Gastroscopy,Other gastroscopy
+G43.6,G436,G43,Endoscopy,Gastroscopy,Other gastroscopy
+G43.7,G437,G43,Endoscopy,Gastroscopy,Other gastroscopy
+G43.8,G438,G43,Endoscopy,Gastroscopy,Other gastroscopy
+G43.9,G439,G43,Endoscopy,Gastroscopy,Other gastroscopy

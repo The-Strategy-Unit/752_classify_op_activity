@@ -1,0 +1,15 @@
+procCode,procGroup
+U0,diagnostic imaging
+U1,diagnostic imaging
+U2,diagnostic tests
+U3,other diagnostics
+U4,diagnostic tests on skin
+Y90,other non-operations
+Y91,external beam radiotherapy
+Y92,preparation for radiotherapy
+Y93,Gallium-67 imaging
+Y94,Radiopharmaceutical imaging
+Y95,Gestational age
+Y97,Radiology with contrast
+Y98,Radiology procedures
+Y99,Donor status
