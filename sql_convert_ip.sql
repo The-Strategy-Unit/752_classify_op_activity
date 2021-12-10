@@ -1,0 +1,23 @@
+-- SAVE RESULTS (WITH HEADERS) TO A CSV NAMED sus_ip.csv WHICH WILL BE USED IN R SCRIPT 
+
+SELECT 
+  [NHSNumber] AS nhs_no
+  ,[AdmissionDate] AS date_actv
+  ,[AdmissionMethodCode] AS admimeth
+  ,[TreatmentSpecialtyCode] AS tfc_admi
+
+-- REDIRECT TO YOUR SUS INPATIENT TABLE:
+FROM [EAT_Reporting].[dbo].[tbInpatientEpisodes]
+
+WHERE 1=1
+  -- ALL ADMISSIONS WITHIN A DESIRED AREA (E.G. BLACK COUNTRY + BSOL)
+  -- THIS IS JUST AN E.G.:
+  AND ([CCGcode] IN ('05C00', '05L00' , '05Q00') OR ProviderCode = 'RNA00')
+  -- DESIRED TIME PERIOD
+  -- USE SAME AS OP QUERY
+  -- (INCLUDE SIX MONTH BUFFER EITHER SIDE):
+  AND ([FinancialYear] = '1819'
+ 	OR [MonthEndOfEpisode] IN ('201710', '201711', '201712', '201801', '201802', '201803') OR [MonthEndOfEpisode] IN ('201904', '201905', '201906', '201907', '201908', '201909'))
+  -- FOR SPEED OF EXECUTION, SELECT JUST ONE TREAT. SPECIALTY
+  -- THIS ULTIMATELY NEEDS TO BE ADDRESSED IN THE ALGORITHM
+  AND [TreatmentSpecialtyCode] = '320'
