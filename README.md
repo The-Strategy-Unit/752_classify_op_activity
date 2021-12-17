@@ -9,6 +9,8 @@ This repository contains the R code and reference tables used in the Midlands De
 2. Run sql_convert_op.sql and sql_convert_ip.sql. 
 3. Run 752_master_sus_convert.R script.
 
+Outputs a demo csv file.
+
 
 ## For NCDR
 "Master.R" contains instructions and executes other necessary scripts. 
