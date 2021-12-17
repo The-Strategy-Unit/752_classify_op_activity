@@ -122,3 +122,4 @@ df_summary <-
   mutate(ym = tsibble::yearmonth(date_actv)) %>% 
   count(ym, tfc, treatment_function, tf_group, provider, site, is_consultant, practice_code, first, tag)
 
+write_excel_csv("OUTPUT_proof_of_concept.csv")
