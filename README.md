@@ -2,10 +2,13 @@
 This repository contains the R code and reference tables used in the Midlands Decision Support Network (MDSN) project, "Classifying Outpatient Activity by Function".
 
 ## New - To use with SQL 
+
+(For now, a proof of concept only.)
+
 1. Extract files to folder on local machine. 
 2. Run sql_convert_op.sql and sql_convert_ip.sql. 
 3. Run 752_master_sus_convert.R script.
-This is a proof of concept only.
+
 
 ## For NCDR
 "Master.R" contains instructions and executes other necessary scripts. 
