@@ -1,13 +1,13 @@
-`# USING "TIDYTABLE" PACKAGE (A TIDY INTERFACE TO "DATA.TABLE")
+# USING "TIDYTABLE" PACKAGE (A TIDY INTERFACE TO "DATA.TABLE")
 # https://markfairbanks.github.io/tidytable/index.html
 # TO IMPROVE SPEED OF EXECUTION 
 
-combo_plus <- combo %>%
+combo_plus <- combo %>%  
   left_join.(lkp_tretspef, by = "tfc") %>%
   relocate(treatment_function, .after = tfc) %>%
   relocate(tf_group, .after = treatment_function) %>%
   # GROUP:
-  # group_by(nhs_no, tfc) %>% # NOW BECOMES A `.by` ARGUMENT PASSED TO `mutate.`:
+  # group_by(nhs_no, tfc) %>% # NOW BECOMES A .by ARGUMENT PASSED TO mutate():
   mutate.(count_actv = n.(), .by = c(nhs_no, tfc)) %>%
   mutate.(n_op = sum(pod == "op"), .by = c(nhs_no, tfc)) %>%
   mutate.(has_adm = ifelse.(sum(pod != "op") > 0, 1, 0), .by = c(nhs_no, tfc)) %>%
@@ -35,4 +35,3 @@ combo_plus <- combo_plus %>%
     NA )) %>% 
   ungroup() %>% 
   mutate.(lead_days_2 = leads.(lag_days_2, 2), .by = c(nhs_no, tfc)) 
-`
