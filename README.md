@@ -3,13 +3,11 @@ This repository contains the SQL code, R code, and reference tables used in the 
 
 ## New - To use on SUS tables with SQL 
 
-(For now, a proof of concept only.)
-
 1. Extract these files to folder on local machine. 
 2. Modify (as necessary) and run: sql_convert_op.sql and sql_convert_ip.sql. 
 3. Run 752_master_sus_convert.R script.
 
-Outputs a demo csv file.
+Outputs a demo csv file when parameter set in 752_master_sus_convert.R
 
 
 ## For NCDR
@@ -17,4 +15,4 @@ Outputs a demo csv file.
 
 ##
 
-Given the relative simplicity of the algorithm, we suggest it could - with moderate effort - be re-written in SQL or in Python. See <https://www.midlandsdecisionsupport.nhs.uk/wp-content/uploads/2021/10/dsu_classify_op_appendix_v0.1.pdf> for methods. Note that basic SQL translation is provided for the queries of SUS tables at the end of the query.R scripts.
+Given the relative simplicity of the algorithm, we suggest it could - with moderate effort - be re-written in SQL or in Python. See <https://www.midlandsdecisionsupport.nhs.uk/wp-content/uploads/2021/10/dsu_classify_op_appendix_v0.1.pdf> for methods.
