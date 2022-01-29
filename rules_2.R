@@ -22,8 +22,9 @@ rules_2 <- rules_1 %>%
   )) %>%   
   ungroup %>% 
   mutate(tag = case_when(is_direct == 1 ~ "direct_access", T ~ tag)) %>% 
-  # "URGENT" TRUMPS ALL PREVIOUS LABELS HERE. 
-  mutate(tag = case_when(priority %in% c("2", "3") ~ "urgent_investigation",
+  # "URGENT" TRUMPS MOST LABELS BUT NOT PRE-OP:
+  mutate(tag = case_when(
+    priority %in% c("2", "3") & tag != "pre_op" ~ "urgent_investigation",
                          T~ tag
   )) %>% 
   mutate(proc_dom = str_sub(procs, 1, 4)) %>% 
