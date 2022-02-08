@@ -22,7 +22,8 @@ base_query_op <- tb_op %>%
   # filter(Der_Postcode_CCG_Code %in% local(chosen_ccgs)) %>% # OR:
   # filter(Der_Postcode_CCG_Code %in% local(chosen_ics)) %>%
   ## E.G. FOR CARDIOLOGY ONLY:         
-  filter(Treatment_Function_Code == "320") 
+  filter(Treatment_Function_Code == "320") %>% 
+  filter(IsDNA == 0)
 
 
 # RENAME VARS (MY PREFERENCE) :
