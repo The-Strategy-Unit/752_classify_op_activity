@@ -7,7 +7,7 @@ This repository contains the SQL code, R code, and reference tables used in the 
 2. Modify (as necessary) and run: sql_option_op.sql and sql_option_ip.sql. 
 3. Run 752_master_sql_option.R script.
 
-Outputs a demo csv file (when this parameter set is set as TRUE in 752_master_sql_option.R
+Outputs a demo csv file (when this parameter set is set as TRUE in 752_master_sql_option.R).
 
 
 ## For NCDR
